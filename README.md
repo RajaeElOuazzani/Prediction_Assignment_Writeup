@@ -2,8 +2,6 @@
 
 Hi,
 
-Because of the high size of my original .html file which contained Figure1 and Figure2, I was obliged to not plot the figures into .html file.
-
-You will find figures in the same forlder as the .html and .Rmd files.
+please add "http://htmlpreview.github.io/?" to the URL of the .html file to view its content. 
 
 Thanks
