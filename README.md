@@ -2,6 +2,6 @@
 
 Hi,
 
-please add "http://htmlpreview.github.io/?" to the URL of the .html file to view its content. 
+Please add "http://htmlpreview.github.io/?" at the begining of the URL of the .html file to view its content. The .html file has a big size.
 
 Thanks
